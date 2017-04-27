@@ -1,6 +1,6 @@
 {
   "name": "patforg/monolog-extras",
-  "description": "Extra Monolog classes",
+  "description": "Extra classes and addons for Monolog - the PHP logger system",
   "require": {
     "php": ">=5.3.0",
     "monolog/monolog": "^1.22"
