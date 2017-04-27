@@ -4,6 +4,7 @@
     "require": {
         "monolog/monolog": "^1.22"
     },
+    "license": "MIT",
     "authors": [
         {
             "name": "Patrick Forget",
