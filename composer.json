@@ -1,0 +1,13 @@
+{
+    "name": "patforg/monolog-extras",
+    "description": "Extra Monolog classes",
+    "require": {
+        "monolog/monolog": "^1.22"
+    },
+    "authors": [
+        {
+            "name": "Patrick Forget",
+            "email": "patforg@geekpad.ca"
+        }
+    ]
+}
